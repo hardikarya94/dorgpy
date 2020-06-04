@@ -1,7 +1,7 @@
 # dorgpy
 # Directory Organiser
 
-Move photos/videos from all sub-directories to new folders created with year when file is created.
+Move photos/videos from all sub-directories to new folders created with file type/ year when file is created.
 
 # How to use:
 python dorgpy.py
